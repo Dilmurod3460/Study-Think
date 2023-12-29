@@ -1,0 +1,63 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyThink.Api", "StudyThink.Api\StudyThink.Api.csproj", "{0DFFB7E2-7AF0-4A04-9350-F04E1829408D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyThink.DataAccess", "StudyThink.DataAccess\StudyThink.DataAccess.csproj", "{FA1C4AD3-6011-4646-869D-2530E4688389}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyThink.Domain", "StudyThink.Domain\StudyThink.Domain.csproj", "{F9B14792-8A0D-40F8-802C-0C056823F12F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyThink.Service", "StudyThink.Service\StudyThink.Service.csproj", "{AD214DD8-2A40-4AC5-A37F-A925A9CEA274}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pmr", "pmr", "{8B5499EE-AD2D-43AF-8837-FA615BE28DEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Triggers", "Triggers", "{B913A34F-9B20-4BC0-8BE0-ADE262D9D510}"
+	ProjectSection(SolutionItems) = preProject
+		TriggerAfterDelete.sql = TriggerAfterDelete.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases", "Databases", "{E4D07177-CBD6-4895-8D80-C842A8A6D9D6}"
+	ProjectSection(SolutionItems) = preProject
+		StudyThink.sql = StudyThink.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BF28A38E-9177-4239-8394-963280BE9029}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DFFB7E2-7AF0-4A04-9350-F04E1829408D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFFB7E2-7AF0-4A04-9350-F04E1829408D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFFB7E2-7AF0-4A04-9350-F04E1829408D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFFB7E2-7AF0-4A04-9350-F04E1829408D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1C4AD3-6011-4646-869D-2530E4688389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1C4AD3-6011-4646-869D-2530E4688389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1C4AD3-6011-4646-869D-2530E4688389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1C4AD3-6011-4646-869D-2530E4688389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B14792-8A0D-40F8-802C-0C056823F12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B14792-8A0D-40F8-802C-0C056823F12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B14792-8A0D-40F8-802C-0C056823F12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B14792-8A0D-40F8-802C-0C056823F12F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD214DD8-2A40-4AC5-A37F-A925A9CEA274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD214DD8-2A40-4AC5-A37F-A925A9CEA274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD214DD8-2A40-4AC5-A37F-A925A9CEA274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD214DD8-2A40-4AC5-A37F-A925A9CEA274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B913A34F-9B20-4BC0-8BE0-ADE262D9D510} = {8B5499EE-AD2D-43AF-8837-FA615BE28DEC}
+		{E4D07177-CBD6-4895-8D80-C842A8A6D9D6} = {8B5499EE-AD2D-43AF-8837-FA615BE28DEC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87604423-560B-49A2-B9A3-EFB0A2763A0F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,492 @@
+[
+  {
+    "country": "Afghanistan",
+    "countryPhoneNumberCode": "93",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Albania",
+    "countryPhoneNumberCode": "355",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Algeria",
+    "countryPhoneNumberCode": "213",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Andorra",
+    "countryPhoneNumberCode": "376",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Angola",
+    "countryPhoneNumberCode": "244",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "countryPhoneNumberCode": "1",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Argentina",
+    "countryPhoneNumberCode": "54",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Armenia",
+    "countryPhoneNumberCode": "374",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Australia",
+    "countryPhoneNumberCode": "61",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Austria",
+    "countryPhoneNumberCode": "43",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Azerbaijan",
+    "countryPhoneNumberCode": "994",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Bahamas",
+    "countryPhoneNumberCode": "1",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Bahrain",
+    "countryPhoneNumberCode": "973",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Bangladesh",
+    "countryPhoneNumberCode": "880",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Barbados",
+    "countryPhoneNumberCode": "1",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Belarus",
+    "countryPhoneNumberCode": "375",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Belgium",
+    "countryPhoneNumberCode": "32",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Belize",
+    "countryPhoneNumberCode": "501",
+    "phoneNumberLength": 7
+  },
+  {
+    "country": "Benin",
+    "countryPhoneNumberCode": "229",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Bhutan",
+    "countryPhoneNumberCode": "975",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Bolivia",
+    "countryPhoneNumberCode": "591",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "countryPhoneNumberCode": "387",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Botswana",
+    "countryPhoneNumberCode": "267",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Brazil",
+    "countryPhoneNumberCode": "55",
+    "phoneNumberLength": 11
+  },
+  {
+    "country": "Brunei",
+    "countryPhoneNumberCode": "673",
+    "phoneNumberLength": 7
+  },
+  {
+    "country": "Bulgaria",
+    "countryPhoneNumberCode": "359",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Burkina Faso",
+    "countryPhoneNumberCode": "226",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Burundi",
+    "countryPhoneNumberCode": "257",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Cabo Verde",
+    "countryPhoneNumberCode": "238",
+    "phoneNumberLength": 7
+  },
+  {
+    "country": "Cambodia",
+    "countryPhoneNumberCode": "855",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Cameroon",
+    "countryPhoneNumberCode": "237",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Canada",
+    "countryPhoneNumberCode": "1",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Central African Republic",
+    "countryPhoneNumberCode": "236",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Chad",
+    "countryPhoneNumberCode": "235",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Chile",
+    "countryPhoneNumberCode": "56",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "China",
+    "countryPhoneNumberCode": "86",
+    "phoneNumberLength": 11
+  },
+  {
+    "country": "Colombia",
+    "countryPhoneNumberCode": "57",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Comoros",
+    "countryPhoneNumberCode": "269",
+    "phoneNumberLength": 7
+  },
+  {
+    "country": "Congo",
+    "countryPhoneNumberCode": "242",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Costa Rica",
+    "countryPhoneNumberCode": "506",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Croatia",
+    "countryPhoneNumberCode": "385",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Cuba",
+    "countryPhoneNumberCode": "53",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Cyprus",
+    "countryPhoneNumberCode": "357",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Czech Republic",
+    "countryPhoneNumberCode": "420",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Denmark",
+    "countryPhoneNumberCode": "45",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Djibouti",
+    "countryPhoneNumberCode": "253",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Dominica",
+    "countryPhoneNumberCode": "1",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Dominican Republic",
+    "countryPhoneNumberCode": "1",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Ecuador",
+    "countryPhoneNumberCode": "593",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Egypt",
+    "countryPhoneNumberCode": "20",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "El Salvador",
+    "countryPhoneNumberCode": "503",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Equatorial Guinea",
+    "countryPhoneNumberCode": "240",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Eritrea",
+    "countryPhoneNumberCode": "291",
+    "phoneNumberLength": 7
+  },
+  {
+    "country": "Estonia",
+    "countryPhoneNumberCode": "372",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Eswatini",
+    "countryPhoneNumberCode": "268",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Ethiopia",
+    "countryPhoneNumberCode": "251",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Fiji",
+    "countryPhoneNumberCode": "679",
+    "phoneNumberLength": 7
+  },
+  {
+    "country": "Finland",
+    "countryPhoneNumberCode": "358",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "France",
+    "countryPhoneNumberCode": "33",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Gabon",
+    "countryPhoneNumberCode": "241",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Gambia",
+    "countryPhoneNumberCode": "220",
+    "phoneNumberLength": 7
+  },
+  {
+    "country": "Georgia",
+    "countryPhoneNumberCode": "995",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Germany",
+    "countryPhoneNumberCode": "49",
+    "phoneNumberLength": 11
+  },
+  {
+    "country": "Ghana",
+    "countryPhoneNumberCode": "233",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Greece",
+    "countryPhoneNumberCode": "30",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Grenada",
+    "countryPhoneNumberCode": "1",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Guatemala",
+    "countryPhoneNumberCode": "502",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Guinea",
+    "countryPhoneNumberCode": "224",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Guinea-Bissau",
+    "countryPhoneNumberCode": "245",
+    "phoneNumberLength": 7
+  },
+  {
+    "country": "Guyana",
+    "countryPhoneNumberCode": "592",
+    "phoneNumberLength": 7
+  },
+  {
+    "country": "Haiti",
+    "countryPhoneNumberCode": "509",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Honduras",
+    "countryPhoneNumberCode": "504",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Hungary",
+    "countryPhoneNumberCode": "36",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Iceland",
+    "countryPhoneNumberCode": "354",
+    "phoneNumberLength": 7
+  },
+  {
+    "country": "India",
+    "countryPhoneNumberCode": "91",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Indonesia",
+    "countryPhoneNumberCode": "62",
+    "phoneNumberLength": 11
+  },
+  {
+    "country": "Iran",
+    "countryPhoneNumberCode": "98",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Iraq",
+    "countryPhoneNumberCode": "964",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Ireland",
+    "countryPhoneNumberCode": "353",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Israel",
+    "countryPhoneNumberCode": "972",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Italy",
+    "countryPhoneNumberCode": "39",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Jamaica",
+    "countryPhoneNumberCode": "1",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Japan",
+    "countryPhoneNumberCode": "81",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Jordan",
+    "countryPhoneNumberCode": "962",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Kazakhstan",
+    "countryPhoneNumberCode": "7",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Kenya",
+    "countryPhoneNumberCode": "254",
+    "phoneNumberLength": 10
+  },
+  {
+    "country": "Kiribati",
+    "countryPhoneNumberCode": "686",
+    "phoneNumberLength": 5
+  },
+  {
+    "country": "Kuwait",
+    "countryPhoneNumberCode": "965",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Kyrgyzstan",
+    "countryPhoneNumberCode": "996",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Laos",
+    "countryPhoneNumberCode": "856",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Latvia",
+    "countryPhoneNumberCode": "371",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Lebanon",
+    "countryPhoneNumberCode": "961",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Lesotho",
+    "countryPhoneNumberCode": "266",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Liberia",
+    "countryPhoneNumberCode": "231",
+    "phoneNumberLength": 8
+  },
+  {
+    "country": "Libya",
+    "countryPhoneNumberCode": "218",
+    "phoneNumberLength": 9
+  },
+  {
+    "country": "Liechtenstein",
+    "countryPhoneNumberCode": "423",
+    "phoneNumberLength": 7
+  },
+  {
+    "country": "Uzbekistan",
+    "countryPhoneNumberCode": "998",
+    "phoneNumberLength": 7
+  },
+  {
+    "country": "Russia",
+    "countryPhoneNumberCode": "7",
+    "phoneNumberLength": 10
+  }
+]
